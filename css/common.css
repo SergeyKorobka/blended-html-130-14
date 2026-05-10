@@ -1,3 +1,7 @@
+:root {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: var(--main-ff);
   font-size: 16px;
